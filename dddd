@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Cliente>
+<id>53180501Q</id>
+<Apellidos>Castiñeira</Apellidos>
+<Nombre>Jose</Nombre>
+<Telefonos total="5">
+<Telefono>986242201</Telefono>
+<Telefono>616197360</Telefono>
+<Telefono>555555555</Telefono>
+<Telefono>+5438888888888</Telefono>
+<Telefono>+34986242201</Telefono>
+</Telefonos>
+<Mails>
+<Mail>prueba@prueba.es</Mail>
+</Mails>
+</Cliente>
